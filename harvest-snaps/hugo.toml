@@ -1,0 +1,25 @@
+baseURL = 'https://juleslovesyou.github.io'
+languageCode = 'en'
+title = '$3x'
+theme = "terminalcv"
+
+[params]
+    description = "just a blog"
+    prompt = "newuser"
+    hidesource = true
+
+[params.whois]
+    name = "Jules"
+    profession = "Unknown"
+    location = "Macquarie Park"
+    contact = "0415076181"
+    description = """
+Blowjob, and pussy to dick sex that's all. I have some regular visitors.
+"""
+
+[params.misc]
+  commandName = "blog"
+  title = "Blog"
+  titleColor = "teal"
+  content = """ https://juleslovesyou.github.io/posts """
+  contentColor = "orange"
