@@ -1,5 +1,0 @@
-baseURL = 'https://juleslovesyou.github.io'
-languageCode = 'en-us'
-title = 'sex'
-theme = 'hugo-bearblog'
-publishDir = "public"
